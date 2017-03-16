@@ -1,0 +1,22 @@
+.navbar.navbar-default {
+    background-color: #99ccff;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+nav ul li {
+    display:inline;
+    margin-left: 20px;
+}
+#sidebar {
+  height:100vh;
+}
+body {
+  height:1000px;
+}
+
+#topbar {
+  background-color: #f9f9f9;
+  border:1px solid #ddd;
+  margin-bottom:15px;
+}
